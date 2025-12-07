@@ -28,7 +28,7 @@ El sensor ultrasónico HC-SR04 es un dispositivo capaz de medir distancias utili
 - Colocar el sensor ultrasonico y la LCD
 - Realizar la conexión correspondiente
   
-  ![]( )
+  ![](https://github.com/Mayte-10/REPORTE-NIVEL-DE-AGUA--SENSOR-ULTRASONICO-/blob/main/CONEXION%20FUNCIONAMIENTO%20NIVEL%20DE%20AGUA.PNG)
 
 - Colocar el siguiente código
   
@@ -156,9 +156,9 @@ El HC-SR04 opera mediante dos pines principales:
 - Trigger (TRIG): Genera un pulso de 10 µs para iniciar la medición.
 - Echo (ECHO): Recibe el eco y regresa un pulso proporcional al tiempo de viaje.
 
-  ![]( )
-   ![]( )
-   ![]( )
+  ![](https://github.com/Mayte-10/REPORTE-NIVEL-DE-AGUA--SENSOR-ULTRASONICO-/blob/main/FUNCIONAMIENTO%2001%20NIVEL%20DE%20AGUA.PNG)
+   ![](https://github.com/Mayte-10/REPORTE-NIVEL-DE-AGUA--SENSOR-ULTRASONICO-/blob/main/FUNCIONAMIENTO%2002%20NIVEL%20DE%20AGUA.PNG)
+   ![](https://github.com/Mayte-10/REPORTE-NIVEL-DE-AGUA--SENSOR-ULTRASONICO-/blob/main/FUNCIONAMIENTO%20NIVEL%20DE%20AGUA%2003.PNG)
    ![]( )
 
 
